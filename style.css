@@ -1,0 +1,12 @@
+body {
+    font-family: 'Oswald';
+}
+
+#text {
+    font-size: 1em;
+}
+
+.container {
+    display: block;
+    text-align: center;
+}
